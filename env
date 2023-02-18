@@ -1,0 +1,9 @@
+-- rename this file to .env and set the environment variables
+DB_TYPE=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PWD=pwd
+DB_NAME=test
+PORT=3011
+MESSAGE=Hello
